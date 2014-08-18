@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+*.tex
+*.pdf
+*files
+*.html
