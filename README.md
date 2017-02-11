@@ -6,8 +6,9 @@
 This notebook is part of the tutorial *[SciPy and OpenCV as an interactive
 computing environment for computer
 vision](http://emap.fgv.br/sibgrapi-2014/tutorials.html)* to be presented at
-[SIBGRAPI 2014](http://emap.fgv.br/sibgrapi-2014/). The tutorial will be also
-available as a full paper in [RITA](http://www.seer.ufrgs.br/index.php/rita/).
+[SIBGRAPI 2014](http://emap.fgv.br/sibgrapi-2014/). The tutorial is also
+available as a full paper in
+[RITA](http://www.seer.ufrgs.br/rita/article/view/RITA-VOL22-NR1-154).
 
 ## What are we looking for in a computer environment?
 
@@ -120,5 +121,3 @@ and on GitHub:
 
 [https://github.com/thsant/scipy4cv/tree/master/](https://github.com/thsant/scip
 y4cv/tree/master/)
-
-
