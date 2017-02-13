@@ -1,7 +1,7 @@
 
 # Introduction
 
-## About this notebook
+## About these notebooks
 
 These notebooks are part of the tutorial *[SciPy and OpenCV as an interactive
 computing environment for computer
