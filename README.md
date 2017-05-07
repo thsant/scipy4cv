@@ -114,10 +114,8 @@ provided references help on the next ones.
 **IPython notebooks** presenting the complete code for the examples are
 available on
 
-[http://nbviewer.ipython.org/github/thsant/scipy4cv](http://nbviewer.ipython.org
-/github/thsant/scipy4cv)
+[http://nbviewer.ipython.org/github/thsant/scipy4cv](http://nbviewer.ipython.org/github/thsant/scipy4cv)
 
 and on GitHub:
 
-[https://github.com/thsant/scipy4cv/tree/master/](https://github.com/thsant/scip
-y4cv/tree/master/)
+[https://github.com/thsant/scipy4cv/tree/master/](https://github.com/thsant/scipy4cv/tree/master/)
