@@ -1,11 +1,11 @@
 
 # Introduction
 
-## About this notebook
+## About these notebooks
 
-This notebook is part of the tutorial *[SciPy and OpenCV as an interactive
+These notebooks are part of the tutorial *[SciPy and OpenCV as an interactive
 computing environment for computer
-vision](http://emap.fgv.br/sibgrapi-2014/tutorials.html)* to be presented at
+vision](http://emap.fgv.br/sibgrapi-2014/tutorials.html)*, first presented at
 [SIBGRAPI 2014](http://emap.fgv.br/sibgrapi-2014/). The tutorial is also
 available as a full paper in
 [RITA](http://www.seer.ufrgs.br/rita/article/view/RITA-VOL22-NR1-154).
